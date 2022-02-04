@@ -1,0 +1,16 @@
+D:\Revature\po\PO-Week1\bin\Debug\net5.0\PO-Week1.exe
+D:\Revature\po\PO-Week1\bin\Debug\net5.0\PO-Week1.deps.json
+D:\Revature\po\PO-Week1\bin\Debug\net5.0\PO-Week1.runtimeconfig.json
+D:\Revature\po\PO-Week1\bin\Debug\net5.0\PO-Week1.runtimeconfig.dev.json
+D:\Revature\po\PO-Week1\bin\Debug\net5.0\PO-Week1.dll
+D:\Revature\po\PO-Week1\bin\Debug\net5.0\ref\PO-Week1.dll
+D:\Revature\po\PO-Week1\bin\Debug\net5.0\PO-Week1.pdb
+D:\Revature\po\PO-Week1\obj\Debug\net5.0\PO-Week1.csproj.AssemblyReference.cache
+D:\Revature\po\PO-Week1\obj\Debug\net5.0\PO-Week1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Revature\po\PO-Week1\obj\Debug\net5.0\PO-Week1.AssemblyInfoInputs.cache
+D:\Revature\po\PO-Week1\obj\Debug\net5.0\PO-Week1.AssemblyInfo.cs
+D:\Revature\po\PO-Week1\obj\Debug\net5.0\PO-Week1.csproj.CoreCompileInputs.cache
+D:\Revature\po\PO-Week1\obj\Debug\net5.0\PO-Week1.dll
+D:\Revature\po\PO-Week1\obj\Debug\net5.0\ref\PO-Week1.dll
+D:\Revature\po\PO-Week1\obj\Debug\net5.0\PO-Week1.pdb
+D:\Revature\po\PO-Week1\obj\Debug\net5.0\PO-Week1.genruntimeconfig.cache
